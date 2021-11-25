@@ -5,7 +5,8 @@
   "author": "matheusAlvarenga <matheus.alvarenga@natahouse.com>",
   "license": "MIT",
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "test": "jest"
   },
   "devDependencies": {
     "@types/jest": "^27.0.3",
